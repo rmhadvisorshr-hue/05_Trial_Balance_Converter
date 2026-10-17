@@ -4,3 +4,6 @@
 docs
 
 .DS_Store
+
+# real client workbooks used for local testing - never commit
+data/
